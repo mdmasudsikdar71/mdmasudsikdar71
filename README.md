@@ -21,7 +21,7 @@
 ### Frameworks:
 - Vue
 - Laravel
-- Python
+- Lumen
 - CakePHP
 - Django
 - Flask
