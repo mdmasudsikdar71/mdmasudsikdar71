@@ -12,19 +12,20 @@
 
 ## 🖥 Technologies
 ### Languages:
-- JavaScript
-- PHP
-- Python
 - C
 - C++
+- PHP
+- Python
+- JavaScript
 - Java/Android
 ### Frameworks:
 - Vue
-- Laravel
 - Lumen
-- CakePHP
-- Django
 - Flask
+- Django
+- Laravel
+- CakePHP
+- CodeIgniter
 ### CMS Based:
 - Wordpress
 ### Workflows:
