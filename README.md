@@ -7,7 +7,6 @@
 
 ## 🔭 I’m currently working on
 
-- Web Developer at [bitBirds solutions](https://github.com/bitbirds-Solutions)
 - Web Developer at [System Decoder](https://github.com/systemdecoder)
 
 ## 🖥 Technologies
@@ -15,21 +14,33 @@
 - C
 - C++
 - PHP
+- Java
 - Python
 - JavaScript
-- Java/Android
-### Frameworks:
+
+### Frameworks & Libraries:
+#### Javascript
 - Vue
-- Lumen
-- Flask
-- Django
-- Laravel
+- Nuxt
+- React
+- Express
+- Electron
+
+#### PHP
+- Laravel | Lumen
 - CakePHP
 - CodeIgniter
+
+#### Python
+- Flask
+- Django
+
 ### CMS Based:
 - Wordpress
+
 ### Workflows:
 - Agile/Scrum
+
 ### Technologies:
 - Web Development
 - Mobile Development
