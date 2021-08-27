@@ -27,9 +27,9 @@
 - Electron
 
 #### PHP
-- Laravel | Lumen
 - CakePHP
 - CodeIgniter
+- Laravel | Lumen
 
 #### Python
 - Flask
