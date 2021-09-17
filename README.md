@@ -23,6 +23,7 @@
 #### Javascript
 - Vue
 - Nuxt
+- Next
 - React
 - Express
 - Electron
