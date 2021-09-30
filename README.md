@@ -14,10 +14,10 @@
 ### Languages:
 - C
 - C++
-- PHP
+- [PHP](https://github.com/mdmasudsikdar71#php)
 - Java
-- Python
-- JavaScript
+- [Python](https://github.com/mdmasudsikdar71#python)
+- [JavaScript](https://github.com/mdmasudsikdar71#javascript)
 
 ### Frameworks & Libraries:
 #### Javascript
