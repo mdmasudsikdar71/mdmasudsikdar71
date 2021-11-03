@@ -8,7 +8,6 @@
 ## 🔭 I’m currently working on
 
 - Web Developer at [System Decoder](https://github.com/systemdecoder)
-- Sr. Web Developer at [Doodle Inc.](https://github.com/thedoodleinc)
 
 ## 🖥 Technologies
 ### Languages:
