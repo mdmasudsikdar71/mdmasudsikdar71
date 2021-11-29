@@ -22,9 +22,8 @@
 - Electron
 
 #### PHP
-- CakePHP
 - CodeIgniter
-- Laravel | Lumen
+- Laravel
 
 ### CMS Based:
 - Wordpress
