@@ -11,17 +11,11 @@
 
 ## 🖥 Technologies
 ### Languages:
-- C
-- C++
 - [PHP](https://github.com/mdmasudsikdar71#php)
-- Java
-- [Python](https://github.com/mdmasudsikdar71#python)
 - [JavaScript](https://github.com/mdmasudsikdar71#javascript)
 
 ### Frameworks & Libraries:
 #### Javascript
-- Vue
-- Nuxt
 - Next
 - React
 - Express
@@ -31,10 +25,6 @@
 - CakePHP
 - CodeIgniter
 - Laravel | Lumen
-
-#### Python
-- Flask
-- Django
 
 ### CMS Based:
 - Wordpress
