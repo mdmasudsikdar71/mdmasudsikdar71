@@ -16,8 +16,10 @@
 
 ### Frameworks & Libraries:
 #### Javascript
-- Next
+- Vue
+- Nuxt
 - React
+- Next
 - Express
 - Electron
 
