@@ -28,6 +28,7 @@
 - Laravel
 
 ### CMS Based:
+- Cockpit
 - Wordpress
 
 ### Workflows:
