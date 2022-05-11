@@ -24,7 +24,7 @@
 - Express
 - Electron
 
-#### Javascript
+#### Python
 - Django
 - Flask
 - PyScript
