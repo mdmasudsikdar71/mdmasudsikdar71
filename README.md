@@ -32,6 +32,7 @@
 #### PHP
 - CodeIgniter
 - Laravel
+- Smarty
 
 ### CMS Based:
 - Cockpit
