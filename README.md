@@ -12,7 +12,6 @@
 ## 🖥 Technologies
 ### Languages:
 - [PHP](https://github.com/mdmasudsikdar71#php)
-- [Python](https://github.com/mdmasudsikdar71#python)
 - [JavaScript](https://github.com/mdmasudsikdar71#javascript)
 
 ### Frameworks & Libraries:
@@ -23,11 +22,6 @@
 - Next
 - Express
 - Electron
-
-#### Python
-- Django
-- Flask
-- PyScript
 
 #### PHP
 - CodeIgniter
