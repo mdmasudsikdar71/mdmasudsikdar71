@@ -30,6 +30,7 @@
 
 ### CMS Based:
 - Cockpit
+- Craft
 - Wordpress
 
 ### Workflows:
