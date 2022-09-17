@@ -20,17 +20,15 @@
 - Nuxt
 - React
 - Next
+- Node
 - Express
-- Electron
 
 #### PHP
 - CodeIgniter
 - Laravel
-- Smarty
 
 ### CMS Based:
 - Cockpit
-- Craft
 - Wordpress
 
 ### Workflows:
