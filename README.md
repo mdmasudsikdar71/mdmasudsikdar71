@@ -15,6 +15,10 @@
 - [JavaScript](https://github.com/mdmasudsikdar71#javascript)
 
 ### Frameworks & Libraries:
+#### PHP
+- CodeIgniter
+- Laravel
+
 #### Javascript
 - Vue
 - Nuxt
@@ -22,10 +26,6 @@
 - Next
 - Node
 - Express
-
-#### PHP
-- CodeIgniter
-- Laravel
 
 ### CMS Based:
 - Cockpit
