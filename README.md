@@ -20,12 +20,12 @@
 - Laravel
 
 #### Javascript
-- Vue
-- Nuxt
-- React
-- Next
-- Node
-- Express
+- Vuejs
+- Nuxtjs
+- Reactjs
+- Nextjs
+- Nodejs
+- Expressjs
 
 ### CMS Based:
 - Cockpit
