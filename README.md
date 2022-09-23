@@ -38,6 +38,10 @@
 - Web Development
 - Mobile Development
 
+### More:
+- GraphQL
+
+
 ## 🌱 I’m currently learning
 
 - New Technologies
