@@ -26,6 +26,7 @@
 - Nextjs
 - Nodejs
 - Expressjs
+- Alpinejs
 
 ### CMS Based:
 - Cockpit
