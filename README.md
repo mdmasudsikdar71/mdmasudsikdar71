@@ -27,6 +27,7 @@
 - Nodejs
 - Expressjs
 - Alpinejs
+- Backbonejs
 
 ### CMS Based:
 - Cockpit
