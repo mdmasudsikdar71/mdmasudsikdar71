@@ -27,10 +27,10 @@
 - Nodejs
 - Expressjs
 - Alpinejs
-- Backbonejs
 
 ### CMS Based:
 - Cockpit
+- Shopify
 - Wordpress
 
 ### Workflows:
