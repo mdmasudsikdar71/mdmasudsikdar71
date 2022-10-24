@@ -25,6 +25,7 @@
 - Next.js
 - Node.js
 - Express.js
+- Electron
 - Alpine.js
 
 ### CMS Based:
