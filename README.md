@@ -13,7 +13,6 @@
 ### Languages:
 - [PHP](https://github.com/mdmasudsikdar71#php)
 - [JavaScript](https://github.com/mdmasudsikdar71#javascript)
-- [Python](https://github.com/mdmasudsikdar71#python)
 
 ### Frameworks & Libraries:
 #### PHP
