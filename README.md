@@ -54,6 +54,5 @@
 ### Numbers
 [![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71)
 
-![mdmasudsikdar71's Stats](https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&hide_border=true&count_private=true)
-[![mdmasudsikdar71's StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/7293078/md-masud-sikdar)
-![mdmasudsikdar71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmasudsikdar71&hide_border=true)
+![mdmasudsikdar71's Stats](https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&count_private=true&include_all_commits=true)
+![mdmasudsikdar71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmasudsikdar71)
