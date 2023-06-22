@@ -47,7 +47,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
-![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71)
+![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71&no-frame=true)
 
 ### Numbers
 ![mdmasudsikdar71's Stats](https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&count_private=true&include_all_commits=true)
