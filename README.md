@@ -47,10 +47,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
-## 🌱 I’m currently learning
-
-- New Technologies
-
 ![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71)
 
 ### Numbers
