@@ -51,8 +51,8 @@
 
 - New Technologies
 
-### Numbers
-[![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71)
+![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71)
 
+### Numbers
 ![mdmasudsikdar71's Stats](https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&count_private=true&include_all_commits=true)
 ![mdmasudsikdar71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmasudsikdar71)
