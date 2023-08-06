@@ -42,6 +42,7 @@
 
 ![Dart](https://img.shields.io/badge/Dart-777BB4?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-777BB4?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
