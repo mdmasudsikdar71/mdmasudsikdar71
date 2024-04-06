@@ -1,6 +1,6 @@
 # Hi, Nice to see you here 👋
 
-### MD Masud Sikdar, Fullstack developer from Dhaka, Bangladesh. I like to experiment a lot!
+### MD Masud Sikdar, from Dhaka, Bangladesh. I like to experiment a lot!
 
 [![GitHub followers](https://img.shields.io/github/followers/mdmasudsikdar71?logo=github)](https://github.com/mdmasudsikdar71) [![Twitter Follow](https://img.shields.io/twitter/follow/mdmasudsikdar71?logo=twitter&style=social)](https://twitter.com/mdmasudsikdar71) [![Facebook Badge](https://img.shields.io/badge/-MDMasudSikdar71-1877F2?logo=facebook&logoColor=white&link=https://facebook.com/MDMasudSikdar71)](https://facebook.com/MDMasudSikdar71) [![Linkedin Badge](https://img.shields.io/badge/-MDMasudSikdar71-blue?logo=linkedin&logoColor=white&link=https://linkedin.com/in/MDMasudSikdar71)](https://linkedin.com/in/MDMasudSikdar71) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masudsikdar85@gmail.com)](mailto:masudsikdar85@gmail.com)
 
@@ -10,6 +10,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-663399?style=flat-square&logo=go&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
