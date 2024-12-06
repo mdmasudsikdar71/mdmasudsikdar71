@@ -26,16 +26,24 @@ I'm **MD Masud Sikdar**, from Dhaka, Bangladesh. I love experimenting with techn
 
 ---
 
-### 📫 How to reach me:
-- [🌐 Website](https://www.mdmasudsikdar.com)
-- [🔗 LinkedIn](https://www.linkedin.com/in/mdmasudsikdar71)
-- [🐦 Twitter](https://twitter.com/mdmasudsikdar71)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71&column=8&theme=gruvbox&no-frame=true" alt="Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmasudsikdar71&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-### Numbers
-![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71&column=8&no-frame=true)
+### 📫 How to reach me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdmasudsikdar71" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-![mdmasudsikdar71's Stats](https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&count_private=true&include_all_commits=true)
+---
 
-![mdmasudsikdar71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmasudsikdar71)
+<p align="center">🚀 *"Building one solution at a time."* 🚀</p>
