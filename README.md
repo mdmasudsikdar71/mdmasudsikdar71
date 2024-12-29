@@ -10,7 +10,7 @@
 ---
 
 ### 📫 How to reach me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mdmasudsikdar71" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
